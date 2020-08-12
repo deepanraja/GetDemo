@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-04T22:34:13 IST" name="Suite" finished-at="2020-08-04T22:34:13 IST" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2020-08-04T22:34:13 IST" name="Test" finished-at="2020-08-04T22:34:13 IST" duration-ms="32">
+      <class name="Job.Qawork.AppiumTest">
+        <test-method signature="appium()[pri:0, instance:Job.Qawork.AppiumTest@68267da0]" started-at="2020-08-04T22:34:13 IST" name="appium" finished-at="2020-08-04T22:34:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium -->
+      </class> <!-- Job.Qawork.AppiumTest -->
+      <class name="Job.Qawork.FirstTest">
+        <test-method signature="man()[pri:0, instance:Job.Qawork.FirstTest@683dbc2c]" started-at="2020-08-04T22:34:13 IST" name="man" finished-at="2020-08-04T22:34:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- man -->
+      </class> <!-- Job.Qawork.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
