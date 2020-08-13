@@ -10,4 +10,8 @@ public class AppiumTest {
 	{
 		System.out.println("this is appium");
 	}
+	public void cypress()
+	{
+		System.out.println("this is cypress");
+	}
 }
