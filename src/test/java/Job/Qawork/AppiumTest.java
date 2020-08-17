@@ -10,6 +10,7 @@ public class AppiumTest {
 	{
 		System.out.println("this is appium");
 	}
+	@Test
 	public void cypress()
 	{
 		System.out.println("this is cypress");
