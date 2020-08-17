@@ -15,4 +15,9 @@ public class AppiumTest {
 	{
 		System.out.println("this is cypress");
 	}
+	@Test
+	public void cypress1()
+	{
+		System.out.println("this is cypress1");
+	}
 }
